@@ -5,8 +5,10 @@
 
 ## Submitted By
 - Student Name: Mohammed Sulaiman Adnan
-College: Mahaveer Institute Of Science And Technology
-AICTE STU ID:STU6a6cb9f16ef7e1785510385
+- College: Mahaveer Institute Of Science And Technology
+- AICTE STU ID:STU6a6cb9f16ef7e1785510385
+
+
 
 ---
 
