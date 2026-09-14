@@ -5,7 +5,7 @@
 
 ## Submitted By
 - **Student Name:** Mohammed Sulaiman Adnan
-- **College:** JNTUH
+- **College:** Mahaveer Institute of Science & Technology
 - **AICTE STU ID:** *(STU6a6cb9f16ef7e1785510385)*
 
 ---
